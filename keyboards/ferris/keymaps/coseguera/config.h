@@ -1,3 +1,7 @@
 #pragma once
 
 #define HOLD_ON_OTHER_KEY_PRESS_PER_KEY
+
+#define MOUSEKEY_INTERVAL 16
+#define MOUSEKEY_TIME_TO_MAX 60
+#define MOUSEKEY_MAX_SPEED 7
